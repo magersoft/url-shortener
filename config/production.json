@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://localhost:5000",
+  "port": 5000,
+  "jwtSecret": "magersoft corporation with love for hope",
+  "mongoUri": ""
+}
